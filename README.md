@@ -2,7 +2,9 @@
 This is an implement for https://github.com/ioof-holdings/recruitment/wiki/Robot-Challenge
 
 ##how to Launch
-gradlew run --console=plain
+
+ - export JAVA_HOME=<with a version of Java that is newer than 16> 
+ - gradlew run --console=plain
 
 ##Examples of use
 ```
